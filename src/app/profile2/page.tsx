@@ -22,7 +22,7 @@ function page() {
         <br />
         <Link href="https://github.com/yoshidaasato" passHref>
             <Button variant="contained" color="primary">
-                gitリポジトリはこちらから
+                gitアカウントはこちらから
             </Button>
         </Link>
         <Link href="/" passHref>
